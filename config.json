@@ -1,11 +1,11 @@
 {
-  "ownerNumber": ["6285921165857@s.whatsapp.net"],
-  "ownerName": ["Christian ID"],
-  "ownerNum": "6285921165857",
+  "ownerNumber": ["62895330006855@s.whatsapp.net"],
+  "ownerName": ["ZALL REAL"],
+  "ownerNum": "62895330006855",
   "botName": "Hitomi MD",
   "footer": "© Hitomi MD 2022",
-  "fake": "Bot By Christian ID",
-  "sessionName": "hitomi",
+  "fake": "Bot By Zall",
+  "sessionName": "session",
   "pathimg": "./media/hitomi.jpg",
   
   "sb": "➸",
@@ -21,7 +21,7 @@
   "quickReplyButton4": "Donasi 💰",
   "quickReplyButton5": "Rate Bot ⭐",
    
-  "ButtonMenuLink1": "https://youtube.com/c/ChristianID99",
+  "ButtonMenuLink1": "https://youtube.com/c/RisalTmy",
   "ButtonMenuLink2": "https://rest-api-hitomi.herokuapp.com/docs",
   "displayTextMenu3": "command",
   "displayTextMenu4": "donasi",
@@ -31,14 +31,14 @@
   "textBarisDonate1": "DANA : SCAN QRIS DIATAS",
   "textBarisDonate2": "OVO : SCAN QRIS DIATAS",
   "textBarisDonate3": "GOPAY : SCAN QRIS DIATAS",
-  "textBarisDonate4": "PULSA : 0813-2850-7885",
+  "textBarisDonate4": "PULSA : 0895-3300-06855",
   
   "randomlink": ["https://i.ibb.co/Ybbz3qm/b1511a60173f.jpg","https://i.ibb.co/gzx9tkF/e525998814c2.jpg","https://i.ibb.co/7t4ndRM/9d4d951fe9c8.jpg","https://i.ibb.co/61WQK7v/44d84e1d31fc.jpg"],
   "welcomenya": "Intro Dulu Yuk Kak\n\n\n📛 Nama : \n🔞 Umur :\n🏙️ Askot :\n👫 Gender :\n\nSemoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada",
   "leavenya": "Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿",
   
   "gamewaktu": 60,
-  "limitCount": 15,
+  "limitCount": 259,
   "gcount": {
 	"prem": 99999,
 	"user": 20
